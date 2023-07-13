@@ -6,6 +6,14 @@ This repository contains the code for the UltraFusion assignment, which consists
 
 The React app is located in the `my-app` directory. It is a frontend application built using React.
 
+## Installation
+
+First Clone the repository using:
+```git clone https://github.com/Ariiima/Dockerized-Assignment.git```
+
+Then you shold use these commands to also clone the submodules:
+```git submodule init```
+```git submodule update```
 
 ## Docker Compose
 

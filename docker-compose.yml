@@ -15,6 +15,7 @@ services:
   redis:
     image: "redis:alpine"
     volumes:
-      - redis-data:/data
+      - ./redis-data/dump.rdb:/data/dump.rdb
+
 volumes:
   redis-data:
