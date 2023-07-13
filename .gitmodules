@@ -1,0 +1,6 @@
+[submodule "Prompt-Management"]
+	path = Prompt-Management
+	url = https://github.com/Ariiima/Prompt-Management.git
+[submodule "Prompt-Management-Server"]
+	path = Prompt-Management-Server
+	url = https://github.com/Ariiima/Prompt-Management-Server.git
