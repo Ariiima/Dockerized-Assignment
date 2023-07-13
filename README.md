@@ -12,6 +12,7 @@ First Clone the repository using:
 ```git clone https://github.com/Ariiima/Dockerized-Assignment.git```
 
 Then you shold use these commands to also clone the submodules:
+
 ```git submodule init``` 
 
 ```git submodule update```
